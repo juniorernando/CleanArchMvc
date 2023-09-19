@@ -18,6 +18,5 @@ namespace CleanArchMvc.Domain.Validation
                 throw new DomainExceptionValidation(error);
         }
     }
-    {
-    }
+    
 }
